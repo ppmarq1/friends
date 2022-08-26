@@ -2,22 +2,17 @@
 
 # Friends
 
-The Blog app is a classic example of a blog website. I created a fully functional website that shows the list of posts and empower readers to interact with them by adding comments and liking posts.
-
-For this project you will have full freedom in terms of visual design but you will need to keep the following wireframes:
-
-
-  <img src="./app/assets/images/wireframes.png" alt="">
+This is a website when you can manage your friends list. It was built with Ruby and Rails
 
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
 
-- Copy this link `https://github.com/ppmarq1/my-blog-app`.
+- Copy this link `https://github.com/ppmarq1/friends.git`.
 - Get the directory that you want to clone the repository.
 - Open the command prompt in this directory.
-- Write `https://github.com/ppmarq1/my-blog-app`.
-- Go to the repository folder in your command prompt `cd blog-app`.
+- Write `https://github.com/ppmarq1/friends.git`.
+- Go to the repository folder in your command prompt `cd friends`.
 
 - Follow these steps to run the app:
   - run `gem install`, then run `rails s`
@@ -33,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ppmarq1/my-blog-app/issues).
+Feel free to check the [issues page](https://github.com/ppmarq1/friends/issues).
 
 ## Show your support
 
