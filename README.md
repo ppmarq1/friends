@@ -2,7 +2,7 @@
 
 # Friends
 
-This is a website when you can manage your friends list. It was built with Ruby and Rails
+This is a website where you can manage your friends list. It was built with Ruby and Rails
 
 
 ## Getting Started
